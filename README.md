@@ -3,15 +3,11 @@
 > **Free GST Billing & Invoicing App for Indian Small Businesses**  
 > গ্রোসারি • মেডিকেল • মিষ্টির দোকান • রেস্তোরাঁ • যেকোনো দোকানের জন্য
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-orange?style=for-the-badge)](https://soja-hisab.vercel.app)
-[![License](https://img.shields.io/badge/License-Free-green?style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-soja--hisab.vercel.app-orange?style=for-the-badge)](https://soja-hisab.vercel.app)
+[![License](https://img.shields.io/badge/License-Free-green?style=for-the-badge)](#)
 [![Language](https://img.shields.io/badge/Languages-EN_|_हिंदी_|_বাংলা-blue?style=for-the-badge)](#)
 
----
-
-## 📸 Screenshot
-
-![Soja Hisab Dashboard](https://via.placeholder.com/900x500/0f1623/f97316?text=Soja+Hisab+%E2%80%94+Smart+Billing)
+🔗 **Live App → [https://soja-hisab.vercel.app](https://soja-hisab.vercel.app)**
 
 ---
 
@@ -23,15 +19,15 @@
 - Topbar থেকে এক click-এ switch করুন
 
 ### 🧾 Smart Billing / Invoice
-- Auto bill number generation
-- GST calculation (CGST / SGST / IGST)
-- Discount & partial payment support
-- Paid / Unpaid / Part Paid status tracking
-- Print-ready invoice design
+- Auto bill number generation (prefix + number)
+- GST calculation — CGST / SGST / IGST
+- Discount ও partial payment support
+- Paid / Unpaid / Part Paid status
+- Print-ready professional invoice
 
 ### 📲 WhatsApp Bill Sharing
 - One click-এ customer-এর WhatsApp-এ bill পাঠান
-- Due reminder পাঠান WhatsApp-এ
+- Due reminder WhatsApp-এ পাঠান
 - সুন্দর formatted message automatically তৈরি হয়
 
 ### 💳 Payment Setup
@@ -42,24 +38,24 @@
 ### 👥 Customer Management
 - Customer list তৈরি করুন
 - বকেয়া track করুন
-- Due reminder WhatsApp-এ পাঠান
+- WhatsApp-এ due reminder পাঠান
 
 ### 📦 Product & Stock Management
 - Product catalogue তৈরি করুন
 - Stock quantity track করুন
 - Low stock alert
-- Purchase price vs sale price margin দেখুন
+- Purchase price vs sale price margin
 
 ### 📊 Reports
 - আজ / এই সপ্তাহ / এই মাস / সব সময়
 - মোট বিক্রয়, সংগ্রহ, বকেয়া, লাভ
-- Top customers
-- Low stock products
+- Top customers list
+- Low stock products alert
 
 ### 🧮 GST Calculator
 - যেকোনো amount-এর GST instant calculate করুন
 - CGST + SGST breakdown
-- Inclusive / Exclusive both modes
+- Inclusive / Exclusive দুটো mode
 
 ### 🌐 3 ভাষায় সম্পূর্ণ
 - **English** — সব দোকানের জন্য
@@ -110,8 +106,8 @@
 
 ## 📱 Supported Shops
 
-| দোকানের ধরন | ব্যবহার করতে পারবেন |
-|-------------|---------------------|
+| দোকানের ধরন | ✅ |
+|-------------|-----|
 | 🛒 Grocery Store | ✅ |
 | 💊 Medical / Pharmacy | ✅ |
 | 🍬 Sweet Shop | ✅ |
@@ -122,23 +118,7 @@
 | 🔧 Hardware | ✅ |
 | 🎂 Bakery | ✅ |
 | 🏪 General Store | ✅ |
-
----
-
-## 💻 Self Deploy করুন
-
-```bash
-# 1. Download করুন
-git clone https://github.com/asitsa-dotcom/soja-hisab.git
-
-# 2. Browser-এ open করুন
-# Just open index.html in any browser — no server needed!
-```
-
-**GitHub Pages Deploy:**
-1. Repository → Settings → Pages
-2. Source: Deploy from branch → main → / (root)
-3. Save → Done!
+| 💼 Freelancer / Professional | ✅ |
 
 ---
 
@@ -146,22 +126,19 @@ git clone https://github.com/asitsa-dotcom/soja-hisab.git
 
 **Asit Kumar Sarkar**  
 GenAI Strategist | IT Sales Manager | Founder, Ayushman Electronics  
-📍 Kolkata, West Bengal
+📍 Kolkata, West Bengal, India
 
 - 🌐 Portfolio: [asitsarkar.com](https://asitsarkar.com)
 - 💼 LinkedIn: [linkedin.com/in/asitsa](https://linkedin.com/in/asitsa)
 
 ---
 
-## 🤝 Support
+## ⭐ Support
 
-App ভালো লাগলে ⭐ Star দিন!
+App ভালো লাগলে **Star** দিন এবং বন্ধুদের share করুন!
 
-Payment করতে UPI: `9830055441@kotak811`
+💳 Support via UPI: `9830055441@kotak811`
 
 ---
 
-## 📄 License
-
-Free to use for personal and small business purposes.  
 © 2025 Asit Kumar Sarkar — সহজ হিসাব
